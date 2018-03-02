@@ -350,7 +350,10 @@ function i18nInitialise(language, localesPath) {
                             }
                         },
                         "Dropbox": {
-                            "name": "形状"
+                            "name": "dropbox云服务"
+                        },
+                        "Folder": {
+                            "name": "文件夹"
                         }
                     },
                     "filter": {
